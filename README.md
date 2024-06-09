@@ -19,11 +19,13 @@ On the main menu: title of the application, navigation bar for user to choose be
 -	User must select a type of data structure before getting into the visualization.<br />
 -	The help menu shows basic usage and aim of the project.<br />
 -	Quit button exits the application, ask for confirmation.<br />
+
 **In the visualization:**
 - Menu of six operations.
 - Pseudo Code and Process area.
 - Undo and Redo button.
 - Back button.
+
 ## 3. References
 
 Generic tree traversal: Traversals in a Generic Tree | Solution
