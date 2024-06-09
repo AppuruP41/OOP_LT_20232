@@ -2,10 +2,10 @@
 OOP_LT_20232_Group_5
 **Topic: Visualization of operations on tree datastructures**
 ## 1. Team Member
-Tran Quang Hung 20226045 : UML Class Diagram, UI
-Nguyen Huu Hoang 20225972: Algorithm
-Nguyen Dinh Son 20225997: Algorithm
-Pham Phuong Huy 20225977: Algorithm
+	Tran Quang Hung 20226045 : UML Class Diagram, UI
+	Nguyen Huu Hoang 20225972: Algorithm
+	Nguyen Dinh Son 20225997: Algorithm
+	Pham Phuong Huy 20225977: Algorithm
 ## 2. Project Details
 Language: Java
 Apps used: Scene Builder, IntelliJ IDEA, Eclipse
