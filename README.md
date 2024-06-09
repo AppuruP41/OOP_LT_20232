@@ -10,26 +10,24 @@ OOP_LT_20232_Group_5
 Language: Java
 Apps used: Scene Builder, IntelliJ IDEA, Eclipse
 ### Overview: 
-o	Design a program to display and explain some basic operations four types of tree:
+Design a program to display and explain some basic operations four types of tree:
 	Generic tree
 	Binary tree
 	Balanced tree
 	Balanced binary tree
-o	Operations:  create, insert, delete, update, traverse, search.
--	Specifications:
-o	GUI
-o	Design:
-	Consider only undirected-weight trees, with integer node values and no duplicated node values allowed.
-	For the balanced tree and balanced binary tree, the maximum difference in distance from root of the leaf nodes must be chosen by the user.
-	On the main menu: title of the application, navigation bar for user to choose between the four types of tree, help menu and quit
-•	User must select a type of data structure before getting into the visualization.
-•	The help menu shows basic usage and aim of the project.
-•	Quit button exits the application, ask for confirmation.
-o	In the visualization:
-	Menu of six operations.
-	Pseudo Code and Process area.
-	Undo and Redo button.
-	Back button.
+Operations:  create, insert, delete, update, traverse, search.
+**Design:**
+Consider only undirected-weight trees, with integer node values and no duplicated node values allowed.
+For the balanced tree and balanced binary tree, the maximum difference in distance from root of the leaf nodes must be chosen by the user.
+On the main menu: title of the application, navigation bar for user to choose between the four types of tree, help menu and quit
+-User must select a type of data structure before getting into the visualization.
+-The help menu shows basic usage and aim of the project.
+-Quit button exits the application, ask for confirmation.
+**In the visualization:**
+- Menu of six operations.
+- Pseudo Code and Process area.
+- Undo and Redo button.
+- Back button.
 ## 3. References
 
 Generic tree traversal: Traversals in a Generic Tree | Solution
