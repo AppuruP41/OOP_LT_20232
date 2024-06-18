@@ -4,10 +4,10 @@ OOP_LT_20232_Group_5
 ## 1. Team Member
 	Tran Quang Hung 20226045 : UML Class Diagram, UI
 	Nguyen Huu Hoang 20225972: Algorithm
-	Nguyen Dinh Son 20225997: Algorithm
+	Dinh Nguyen Son 20225997: Algorithm
 	Pham Phuong Huy 20225977: Algorithm
 ## 2. Project Details
-Language: Java
+Language: Java, Python
 Apps used: Scene Builder, IntelliJ IDEA, Eclipse
 ### Overview: 
 Design a program to display and explain some basic operations four types of tree:Generic tree, Binary tree, Balanced tree, Balanced binary tree
@@ -19,6 +19,7 @@ On the main menu: title of the application, navigation bar for user to choose be
 -	User must select a type of data structure before getting into the visualization.<br />
 -	The help menu shows basic usage and aim of the project.<br />
 -	Quit button exits the application, ask for confirmation.<br />
+-	Chatbox that can ask chatGPT by texting or recording questions <br />
 
 **In the visualization:**
 - Menu of six operations.
